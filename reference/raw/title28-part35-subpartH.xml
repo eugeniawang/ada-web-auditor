@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<DIV6 N="H" TYPE="SUBPART" VOLUME="1" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-28/part-35/subpart-H&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;28 CFR Part 35 Subpart H&amp;quot;}">
+<HEAD>Subpart H&#x2014;Web and Mobile Accessibility</HEAD>
+<SOURCE>
+<HED>Source:</HED><PSPACE>AG Order No. 5919-2024, 89 FR 31337, Apr. 24, 2024, unless otherwise noted.
+</PSPACE></SOURCE>
+<DIV8 N="35.200" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.200&quot;,&quot;citation&quot;:&quot;28 CFR 35.200&quot;}">
+<HEAD>&#xA7; 35.200 Requirements for web and mobile accessibility.</HEAD>
+<P>(a) <I>General.</I> A public entity shall ensure that the following are readily accessible to and usable by individuals with disabilities:</P>
+<P>(1) Web content that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements; and</P>
+<P>(2) Mobile apps that a public entity provides or makes available, directly or through contractual, licensing, or other arrangements.</P>
+<P>(b) <I>Requirements.</I> (1) Beginning April 26, 2027, a public entity, other than a special district government, with a total population of 50,000 or more shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.</P>
+<P>(2) Beginning April 26, 2028, a public entity with a total population of less than 50,000 or any public entity that is a special district government shall ensure that the web content and mobile apps that the public entity provides or makes available, directly or through contractual, licensing, or other arrangements, comply with Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1, unless the public entity can demonstrate that compliance with this section would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens.</P>
+<P>(3) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the <E T="04">Federal Register</E> under 5 U.S.C. 552(a) and 1 CFR part 51. All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at the National Archives and Records Administration (&#x201C;NARA&#x201D;). Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. NE, 9th Floor, Washington, DC 20002; ADA Information Line: (800) 514-0301 (voice) or 1-833-610-1264 (TTY); website: <I>www.ada.gov</I> [<I>https://perma.cc/U2V5-78KW</I>]. For information on the availability of this material at NARA, visit <I>www.archives.gov/federal-register/cfr/ibr-locations.html</I> [<I>https://perma.cc/9SJ7-D7XZ</I>] or email <I>fr.inspection@nara.gov.</I> The material may be obtained from the World Wide Web Consortium (&#x201C;W3C&#x201D;) Web Accessibility Initiative (&#x201C;WAI&#x201D;), 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273-2711; email: <I>contact@w3.org;</I> website: <I>https://www.w3.org/TR/2018/REC-WCAG21-20180605/</I> and <I>https://perma.cc/UB8A-GG2F.</I></P>
+<CITA TYPE="N">[AG Order No. 5919-2024, 89 FR 31337, Apr. 24, 2024, as amended by AG Order No. 6742-2026, 91 FR 20912, Apr. 20, 2026]
+</CITA>
+</DIV8>
+
+<DIV8 N="35.201" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.201&quot;,&quot;citation&quot;:&quot;28 CFR 35.201&quot;}">
+<HEAD>&#xA7; 35.201 Exceptions.</HEAD>
+<P>The requirements of &#xA7; 35.200 do not apply to the following:</P>
+<P>(a) <I>Archived web content.</I> Archived web content as defined in &#xA7; 35.104.</P>
+<P>(b) <I>Preexisting conventional electronic documents.</I> Conventional electronic documents that are available as part of a public entity's web content or mobile apps before the date the public entity is required to comply with this subpart, unless such documents are currently used to apply for, gain access to, or participate in the public entity's services, programs, or activities.</P>
+<P>(c) <I>Content posted by a third party.</I> Content posted by a third party, unless the third party is posting due to contractual, licensing, or other arrangements with the public entity.</P>
+<P>(d) <I>Individualized, password-protected or otherwise secured conventional electronic documents.</I> Conventional electronic documents that are:</P>
+<P>(1) About a specific individual, their property, or their account; and</P>
+<P>(2) Password-protected or otherwise secured.</P>
+<P>(e) <I>Preexisting social media posts.</I> A public entity's social media posts that were posted before the date the public entity is required to comply with this subpart.</P>
+</DIV8>
+
+<DIV8 N="35.202" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.202&quot;,&quot;citation&quot;:&quot;28 CFR 35.202&quot;}">
+<HEAD>&#xA7; 35.202 Conforming alternate versions.</HEAD>
+<P>(a) A public entity may use conforming alternate versions of web content, as defined by WCAG 2.1, to comply with &#xA7; 35.200 only where it is not possible to make web content directly accessible due to technical or legal limitations.</P>
+<P>(b) WCAG 2.1 is incorporated by reference into this section with the approval of the Director of the <E T="04">Federal Register</E> under 5 U.S.C. 552(a) and 1 CFR part 51. All material approved for incorporation by reference is available for inspection at the U.S. Department of Justice and at NARA. Contact the U.S. Department of Justice at: Disability Rights Section, Civil Rights Division, U.S. Department of Justice, 150 M St. NE, 9th Floor, Washington, DC 20002; ADA Information Line: (800) 514-0301 (voice) or 1-833-610-1264 (TTY); website: <I>www.ada.gov</I> [<I>https://perma.cc/U2V5-78KW</I>]. For information on the availability of this material at NARA, visit <I>www.archives.gov/federal-register/cfr/ibr-locations.html</I> [<I>https://perma.cc/9SJ7-D7XZ</I>] or email <I>fr.inspection@nara.gov.</I> The material may be obtained from W3C WAI, 401 Edgewater Place, Suite 600, Wakefield, MA 01880; phone: (339) 273-2711; email: <I>contact@w3.org;</I> website: <I>https://www.w3.org/TR/2018/REC-WCAG21-20180605/</I> and <I>https://perma.cc/UB8A-GG2F.</I></P>
+</DIV8>
+
+<DIV8 N="35.203" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.203&quot;,&quot;citation&quot;:&quot;28 CFR 35.203&quot;}">
+<HEAD>&#xA7; 35.203 Equivalent facilitation.</HEAD>
+<P>Nothing in this subpart prevents the use of designs, methods, or techniques as alternatives to those prescribed, provided that the alternative designs, methods, or techniques result in substantially equivalent or greater accessibility and usability of the web content or mobile app.</P>
+</DIV8>
+
+<DIV8 N="35.204" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.204&quot;,&quot;citation&quot;:&quot;28 CFR 35.204&quot;}">
+<HEAD>&#xA7; 35.204 Duties.</HEAD>
+<P>Where a public entity can demonstrate that compliance with the requirements of &#xA7; 35.200 would result in a fundamental alteration in the nature of a service, program, or activity or in undue financial and administrative burdens, compliance with &#xA7; 35.200 is required to the extent that it does not result in a fundamental alteration or undue financial and administrative burdens. In those circumstances where personnel of the public entity believe that the proposed action would fundamentally alter the service, program, or activity or would result in undue financial and administrative burdens, a public entity has the burden of proving that compliance with &#xA7; 35.200 would result in such alteration or burdens. The decision that compliance would result in such alteration or burdens must be made by the head of a public entity or their designee after considering all resources available for use in the funding and operation of the service, program, or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, a public entity shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with disabilities receive the benefits or services provided by the public entity to the maximum extent possible.</P>
+</DIV8>
+
+<DIV8 N="35.205" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.205&quot;,&quot;citation&quot;:&quot;28 CFR 35.205&quot;}">
+<HEAD>&#xA7; 35.205 Effect of noncompliance that has a minimal impact on access.</HEAD>
+<P>A public entity that is not in full compliance with the requirements of &#xA7; 35.200(b) will be deemed to have met the requirements of &#xA7; 35.200 in the limited circumstance in which the public entity can demonstrate that the noncompliance has such a minimal impact on access that it would not affect the ability of individuals with disabilities to use the public entity's web content or mobile app to do any of the following in a manner that provides substantially equivalent timeliness, privacy, independence, and ease of use:</P>
+<P>(a) Access the same information as individuals without disabilities;</P>
+<P>(b) Engage in the same interactions as individuals without disabilities;</P>
+<P>(c) Conduct the same transactions as individuals without disabilities; and</P>
+<P>(d) Otherwise participate in or benefit from the same services, programs, and activities as individuals without disabilities.</P>
+</DIV8>
+
+<DIV8 N="35.206-35.209" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-28/section-35.206-35.209&quot;,&quot;citation&quot;:&quot;28 CFR 35.206-35.209&quot;}">
+<HEAD>&#xA7;&#xA7; 35.206-35.209 [Reserved]</HEAD>
+</DIV8>
+
+</DIV6>

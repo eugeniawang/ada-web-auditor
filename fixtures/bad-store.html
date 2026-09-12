@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="refresh" content="300">
+<title></title>
+</head>
+<body>
+<div id="top">
+  <img src="logo-final-v2.png">
+  <a href="/cart"><img src="cart.png"></a>
+  <h1>Maple &amp; Wren Home Goods</h1>
+  <h3>Free shipping on orders over $50</h3>
+</div>
+<div id="hero" onmouseover="showPromo()">
+  <img src="hero-banner.jpg" alt="hero-banner.jpg">
+  <p style="color:#999999; background-color:#ffffff; font-size:14px">Sale ends Sunday. Use code WREN20 at checkout.</p>
+  <a href="/sale">Click here</a>
+</div>
+<div id="products">
+  <div class="card" onclick="openProduct(1)">
+    <img src="p1.jpg" alt="Hand-thrown stoneware mug, speckled cream">
+    <span style="color:#777777; background:#ffffff">$24</span>
+  </div>
+  <div class="card" onclick="openProduct(2)">
+    <img src="p2.jpg">
+    <span>$38</span>
+  </div>
+</div>
+<video src="brand-story.mp4" autoplay>
+  <source src="brand-story.mp4" type="video/mp4">
+</video>
+<div id="top">
+  <form action="/subscribe">
+    <input type="email" name="email" placeholder="Your email">
+    <input type="text" name="zip" placeholder="ZIP">
+    <button type="submit"><img src="arrow.png"></button>
+  </form>
+</div>
+<iframe src="https://maps.example.com/embed?store=1"></iframe>
+<a href="/privacy" tabindex="5">Privacy</a>
+</body>
+</html>
